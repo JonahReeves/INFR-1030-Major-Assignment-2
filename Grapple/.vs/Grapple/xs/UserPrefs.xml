@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{B62A3921-C41D-45E4-DDFF-9D64AA492A3C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Spiderman.cs">
+    <Files>
+      <File FileName="Assets/Spiderman.cs" Line="117" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Grapple" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a4f355cd-2c6a-4962-9af5-813cc8bc86e0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
